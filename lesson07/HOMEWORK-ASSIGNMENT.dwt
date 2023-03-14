@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>PLACE HOLDER TITLE</title>
+    <!-- TemplateEndEditable -->
+    <meta name="description" content="THIS IS MY PLACE  HOLDER DESCRIPTION, PLEASE CHANGE FOR EACH PAGE.">
+
+	  
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+    <link href="favorite-styles.css" rel="stylesheet" type="text/css">
+  <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/source-sans-pro:n2,n7,n4:default.js" type="text/javascript"></script>
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+</head>
+  <body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container"> 
+      <h1><a class="navbar-brand" href="#">Favorite Brand&nbsp;</a>
+      </h1>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse text-center" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"> <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a> </li>
+          <li class="nav-item"> <a class="nav-link" href="#">Event&nbsp;</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="#">Brand&nbsp;</a> </li>
+          <li class="nav-item"><a href="#" class="nav-link">Research&nbsp;</a></li>
+
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <header class="row">
+    <div class="col-xl-12">
+      <h2>John M Stauffer</h2>
+      <h2>&nbsp;</h2>
+    </div>
+  </header>
+<div class="wrapper">
+  <div class="container">
+      <h2 class="text-center">Lorem Ipsum</h2>
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac sodales turpis. Nullam finibus sit amet ante sed eleifend. Nam leo massa, ultricies non ultricies eget, aliquam eu nunc. Donec at quam lobortis, convallis nulla ac, blandit metus. Ut ut vulputate justo. Fusce aliquam, sem non porta volutpat, eros ipsum maximus augue, quis posuere ante lorem id ex. Aenean venenatis et dolor a finibus. Aenean quis nulla quam. Suspendisse pulvinar vestibulum est, non semper massa. Cras eu nunc eu purus feugiat rhoncus. Donec lobortis, lacus eu scelerisque consectetur, leo lorem efficitur nunc, id euismod metus mi vitae felis. Vivamus neque nisi, luctus at est eget, imperdiet dignissim libero. Sed id interdum leo. Etiam bibendum risus risus, eu maximus augue congue ut. Maecenas malesuada leo pellentesque enim varius venenatis. Suspendisse potenti. Ut eu placerat leo. Nullam a magna orci. Morbi condimentum arcu nisi, quis mattis libero scelerisque quis. Pellentesque dui risus, hendrerit mattis nisi laoreet, suscipit vestibulum dolor. Aliquam consequat est at urna elementum vulputate. Nullam sit amet varius sem. Mauris augue eros, tempor quis sodales non, bibendum ut odio. Nam varius malesuada placerat. Suspendisse dignissim, mi id pulvinar malesuada, justo nisl sollicitudin sem, sed imperdiet neque nulla dignissim mi. Nullam ut nibh dapibus, tincidunt dolor nec, dapibus quam. Ut tempus odio non pretium congue. Sed at dignissim velit. Nunc non ipsum eget libero dictum placerat. Quisque leo enim, commodo ac dapibus eget, mattis ac nisi. Vivamus eu malesuada metus. Maecenas eget leo ornare, accumsan ante eget, euismod erat. Maecenas in leo eget tellus pretium blandit. Sed quis massa non massa auctor interdum a at purus. Aliquam at egestas velit. Nulla in consectetur nisi. Phasellus vitae nisi justo. Nullam vitae vehicula ante. Nam non nisi vehicula, aliquam augue quis, pretium orci. In elementum semper fringilla. Vestibulum a faucibus tellus. Donec ac nisl augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse id ultricies est. Cras porttitor finibus ipsum, a dapibus mauris efficitur quis. Fusce ut turpis sagittis massa vulputate auctor. Nullam nec lacinia urna, quis sollicitudin sem. Pellentesque tincidunt consectetur lorem, non congue elit vulputate id. Nunc enim mi, interdum id elementum vitae, maximus in odio. Donec congue dapibus arcu, ac faucibus leo cursus nec. In mauris sem, auctor eget lacus et, volutpat pharetra lectus. Curabitur malesuada bibendum dui at sollicitudin. Nulla gravida quis felis id commodo. Curabitur ut metus iaculis, dictum mi ut, molestie orci. Duis porttitor scelerisque sem ut cursus. Pellentesque quis urna non mauris tristique rhoncus eu ac massa. Maecenas consectetur nunc justo. Phasellus ornare, ipsum ac ultrices laoreet, lacus libero facilisis elit, quis sagittis quam quam et purus. Aenean facilisis, magna bibendum interdum porta, elit lorem congue nulla, et fermentum quam nisi nec nibh. Nulla non erat placerat, blandit sem nec, auctor metus</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <h2 class="text-center">Links:</h2>
+</div>
+  </div>
+<div class="container text-white bg-dark p-4">
+  <div class="row">
+        <div class="col-6 col-md-8 col-lg-12">
+          <div class="row text-center">
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <a>Link anchor</a> </li>
+
+  
+              </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <a>Link anchor</a> </li>
+
+              </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <a>Link anchor</a> </li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-lg-12 col-6 row">
+          <address class="col-lg-6">
+            <strong>John Michael Stauffer</strong><br>
+            <span style="font-family: Jura">Twitter: OldMacDonaldHadAFarm</span><br>
+
+          </address>
+          <address class="col-lg-6">
+            <strong>Contact Me:&nbsp;&nbsp;</strong><br>
+            <a href="mailto:#">johstau@siue.edu</a>
+          </address>
+    </div>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>© 2022 My Favorite Brand: Apple</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.4.1.js"></script>
+</body>
+</html>
